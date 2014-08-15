@@ -8,7 +8,7 @@ This assignment makes use of data from a personal activity monitoring device. Th
 
 The data for this assignment can be downloaded from the course web site:
 
-Dataset: Activity monitoring data [52K]
+Dataset: https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip [52K]
 The variables included in this dataset are:
 
 steps: Number of steps taking in a 5-minute interval (missing values are coded as NA)
